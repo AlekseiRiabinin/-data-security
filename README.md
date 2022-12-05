@@ -13,3 +13,6 @@ Insurance industry, Information security, Services for business [b2b] (outsourci
 - Numpy
 - Matplotlib
 - Seaborn
+
+## 4. Results
+Encryption using Affine Transformation doesn't do much to protect personal data due to the simplicity of matrix operation. Box-Cox Transformation potentially can give good results but data have to be balanced first. Self-Organizing Map clustering algorithm is the most advanced choice to encrypt personal information, however the labels have to be balanced as well.
